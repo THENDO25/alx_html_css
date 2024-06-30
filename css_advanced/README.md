@@ -1,5 +1,5 @@
 # Get Schooled Project
-![ALX HTML & CSS Project.GIF](Videos/html_css_alx_project_gif.gif)
+![ALX HTML & CSS Project.GIF](video/html_css_alx_project_gif.gif)
 
 ## Links
 [HTML File](index.html)
