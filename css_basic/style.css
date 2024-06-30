@@ -1,0 +1,44 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+	background-color: rgb(233, 233, 233);
+	margin: 0;
+	height: 100vh;
+	text-align: center;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+  }
+  header, footer {
+background-color: rgb(233, 233, 233);
+padding: 1em;
+text-align: center;
+  }
+  article {
+    flex: 2;
+    overflow-y: auto;
+    background-color:rgb(159, 197, 233);
+  }
+  
+  aside {
+    flex: 1;
+    overflow-y: auto;
+    background-color: rgb(159, 188, 231);
+  }
+  table {
+	background-color: beige;
+
+  }
+ thead{
+	background-color: #ffffff;
+ }
+ .logo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #007bff; /* a nice blue color */
+    
+  }
